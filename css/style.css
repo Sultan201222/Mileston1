@@ -39,13 +39,12 @@
     color: #ffffff;
     border: none;
     border-radius: 5px;
-    background-color: #487c70;
+    background-color: #2e7463;
 }
 /*============header style end======== */
 
 /*============main style image & information start======== */
-.main-body{
-    background: #b93a3a;
+.main-body{;
     height: 750px;
     width: 1100px;
     margin: 100px 400px;
@@ -86,9 +85,8 @@
 }
 /*============main style image & information end======== */
 
-/*============main style adds start======== */
+/*============main style icon start======== */
 .icons {
-    background: rgb(133, 60, 60);
     height: 300px;
     width: 1200px;
     margin: 150px 340px 100px 340px;
@@ -124,7 +122,46 @@
     align-items: center;
 }
 
+/*============main style icn end======== */
 
+/*============main style adds start======== */
+
+.adds{
+    margin: 150px 340px 100px 340px;
+    height: 300px;
+    width: 1200px;
+}
+
+.gradiant {
+    background-image:linear-gradient(rgba(44, 47, 230, 0.5), rgba(64, 10, 126, 0.5)), url('../images/watch.png');
+    height: 300px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 6px;
+}
+
+.gradiant .text-button{
+    padding:73px 535px 0px 80px;
+}
+
+
+.gradiant .text-button h2{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.gradiant button{
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 18px 27px;
+    border-radius: 5px;
+    border: none;
+}
 /*============main style adds end======== */
+
 
 
