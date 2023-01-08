@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*=============header style start=======  */
+
+.banner{
+    height: 900px;
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-div {
+    float: right;
+    text-align: right;
+    padding-left: 600px;
+    margin: 300px 200px 60px 500px;
+}
+
+.banner h2{
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    padding-bottom: 23px;
+}
+
+.banner p{
+    color: #444343;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.banner-div button {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 24px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    background-color: #487c70;
+}
+/*============header style end======== */
+
+/*============main style image & information start======== */
+.main-body{
+    background: #b93a3a;
+    height: 750px;
+    width: 1100px;
+    margin: 100px 400px;
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.information{
+    margin: 100px 30px 0 82px;
+}
+
+.information h2{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.information p{
+    font-weight: 400;
+    font-size: 16px; 
+    margin-top: 24px;
+}
+
+.information ul {
+    list-style: none;
+    padding-left: 0px;
+    font-size: 16px;
+    margin-top: 23px;
+}
+
+.information ul li{
+    margin-top: 14px;
+}
+
+.picture{
+    height: 12px;
+}
+/*============main style image & information end======== */
+
+/*============main style adds start======== */
+
+
+
+/*============main style adds end======== */
+
+
